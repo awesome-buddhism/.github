@@ -7,7 +7,6 @@ Together we can :
 - Facilitate cooperations between buddhist-tech projects 💕
 - Foster exchanges 🤝
 
----
 
 ## 🌟 Mission and Goals 🎯
 
@@ -18,7 +17,6 @@ Here you'll find all the links and material to investigate state-of-the-art budd
 - **🖥️ Provide Resources:** Offer data-sources, relevant contacts and support for Buddhist tech enthusiasts
 - **🌐 Foster Community:** Build a supportive network of contributors and users 
 
----
 
 ## 🤔 For whom ? 🤩
 
@@ -28,21 +26,18 @@ This page is for you if you're wondering :
 - Where to find data for your own altruistic-projects ? ❤️‍🔥
 - Who's the right interlocutor for you to exchange and boost innovative ideas ? 🤝
 
----
 
 ## 🛠️ Awesome lists
 
 ### [Awesome Buddhist Projects](https://github.com/awesome-buddhism/awesome-buddhist-projects)
-List of existing tech-buddhist projects
 
----
 
 ## 🧘‍♂️ Community and Support
 
 - **Contact Us:** For any questions or suggestions, reach out at [email@example.com](mailto:email@example.com).
 
----
 
-## 🌱 Stay Mindful, Stay Connected
+### 🌱 Stay Mindful, Stay Connected
 
-Thank you for being a part of the Buddhist Tech Community. Together, we can build technology that nurtures mindfulness and compassion.
+Thank you for being a part of the Buddhist Tech Community.
+Together, we can build technology that nurtures mindfulness and compassion.
