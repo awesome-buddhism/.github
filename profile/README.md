@@ -1,7 +1,5 @@
 # ☸️ Buddhist Open-source Community 🌐
 
-![Buddhist Tech Community Logo](link-to-logo.png)
-
 Let's build our open-source community !
 
 Together we can :
@@ -34,14 +32,13 @@ This page is for you if you're wondering :
 
 ## 🛠️ Awesome lists
 
-### [Awesome](link-to-repo)
-A simple and customizable meditation timer app with various sound options and tracking features.
+### [Awesome Buddhist Projects](https://github.com/awesome-buddhism/awesome-buddhist-projects)
+List of existing tech-buddhist projects
 
 ---
 
 ## 🧘‍♂️ Community and Support
 
-- **Report Issues:** If you encounter any issues, please report them [here](link-to-issues).
 - **Contact Us:** For any questions or suggestions, reach out at [email@example.com](mailto:email@example.com).
 
 ---
@@ -49,5 +46,3 @@ A simple and customizable meditation timer app with various sound options and tr
 ## 🌱 Stay Mindful, Stay Connected
 
 Thank you for being a part of the Buddhist Tech Community. Together, we can build technology that nurtures mindfulness and compassion.
-
-![Footer Image](link-to-footer-image.png)
