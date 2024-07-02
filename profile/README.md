@@ -37,7 +37,7 @@ This page is for you if you're wondering :
 - **Contact Us:** For any questions or suggestions, reach out at [email@example.com](mailto:email@example.com).
 
 
-### 🌱 Stay Mindful, Stay Connected
+## 🌱 Stay Mindful, Stay Connected
 
 Thank you for being a part of the Buddhist Tech Community.
 Together, we can build technology that nurtures mindfulness and compassion.
