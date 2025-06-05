@@ -10,7 +10,7 @@ Just as grain transforms into bread through a structured process that nourishes 
 
 ## 📊 The Buddhist Knowledge Supply Chain
 
-![Buddhist Knowledge Supply Chain](assets/buddhist-supply-chain.png)
+![preview](https://github.com/user-attachments/assets/421b86df-5d4f-4e36-bbf9-1e8cd0ab2848)
 
 *From authentic sources to thriving communities - mapping the complete journey of Buddhist knowledge in the digital age.*
 
