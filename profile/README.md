@@ -8,7 +8,7 @@ Just as grain transforms into bread through a structured process that nourishes 
 
 **Important**: This is a documentation project. We document existing technologies, data, and AI systems - we do not build or implement new tools. Our focus is on creating comprehensive, well-organized information about the Buddhist tech ecosystem.
 
-## 📊 The Buddhist Knowledge Supply Chain
+## 📊 Documenting the Buddhist Knowledge Supply Chain
 
 ![preview](https://github.com/user-attachments/assets/421b86df-5d4f-4e36-bbf9-1e8cd0ab2848)
 
