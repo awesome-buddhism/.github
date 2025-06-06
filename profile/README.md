@@ -13,108 +13,26 @@ Just as grain transforms into bread through a structured process that nourishes 
 ![preview](https://github.com/user-attachments/assets/421b86df-5d4f-4e36-bbf9-1e8cd0ab2848)
 
 *From authentic sources to thriving communities - mapping the complete journey of Buddhist knowledge in the digital age.*
-
-## 🔗 Supply Chain Repositories
-
-### 1. Sources
-**📚 [Sources](https://github.com/awesome-buddhism/sources)**
-- Documentation of authentic source gathering projects
-- Manuscript catalogs and databases  
-- Archive and library digitization initiatives
-- Community contribution platforms
-
-### 2. Preservation 
-**🎵 [Preservation](https://github.com/awesome-buddhism/preservation)**
-- Documentation of audio recording and preservation projects
-- Image scanning and digitization tools
-- Storage and backup solutions
-- Oral tradition documentation
-
-### 3. Digitization
-**💻 [Digitization](https://github.com/awesome-buddhism/digitization)**
-- Documentation of OCR tools and models for Buddhist texts
-- Speech-to-text systems for Buddhist languages
-- Transcription platforms and workflows
-- Text encoding standards and tools
-
-### 4. Editorial
-**📝 [Editions](https://github.com/awesome-buddhism/editions)**
-- Documentation of critical edition preparation tools
-- Collaborative editing platforms
-- Version control systems for texts
-- Editorial decision documentation
-
-### 5. Knowledge Networks
-**🕸️ [Knowledge Networks](https://github.com/awesome-buddhism/knowledge-networks)**
-- Documentation of Buddhist knowledge bases and ontologies
-- Entity extraction and relationship mapping tools
-- Concept linking and cross-reference systems
-- Structured data projects
-
-### 6. Translations
-**🌐 [Translations](https://github.com/awesome-buddhism/translations)**
-- Documentation of translation management systems
-- AI-assisted translation tools
-- Multilingual Buddhist corpora
-- Translation quality assessment tools
-
-### 7. Adaptations
-**🎯 [Adaptations](https://github.com/awesome-buddhism/adaptations)**
-- Documentation of audience-specific content adaptation tools
-- Modern language simplification projects
-- Cultural context adaptation systems
-- Accessibility enhancement tools
-
-### 8. Study Tools
-**📖 [Study Tools](https://github.com/awesome-buddhism/study-tools)**
-- Documentation of digital reading environments
-- Practice tracking applications
-- Study group platforms
-- Educational content creation tools
-
-### 9. Content Creation
-**🎨 [Content](https://github.com/awesome-buddhism/content)**
-- Documentation of interactive content platforms
-- Multimedia presentation tools
-- Typography and design resources
-- Attribution and lineage systems
-
-### 10. Distribution
-**📡 [Distribution](https://github.com/awesome-buddhism/distribution)**
-- Documentation of content delivery networks
-- API platforms and integrations
-- Discovery and search tools
-- Event and teaching platforms
-
-### 11. Learning Paths
-**🗺️ [Learning Paths](https://github.com/awesome-buddhism/learning-paths)**
-- Documentation of personalized learning systems
-- Progress tracking tools
-- Adaptive curriculum platforms
-- Assessment and evaluation tools
-
-### 12. Communities
-**🤝 [Communities](https://github.com/awesome-buddhism/communities)**
-- Documentation of community platforms and forums
-- Practice sharing applications
-- Mentor-student connection systems
-- Achievement and recognition tools
-
-## 🔬 AI Evaluation Documentation
-
-**⚖️ [AI Evaluation](https://github.com/awesome-buddhism/ai-evaluation)**
-- Documentation of evaluation datasets for Buddhist AI systems
-- Benchmark tasks for text analysis, translation, and generation
-- Performance metrics and leaderboards
-- Community-driven assessment protocols
-
-## 📈 Analytics & Insights
-
-**📊 [Analytics](https://github.com/awesome-buddhism/analytics)**
-- Documentation of supply chain gap analysis tools
-- Project landscape mapping resources
-- Community impact metrics
-- Technology trend analysis
+# Content
+- [🔗 Supply Chain Repositories](https://github.com/awesome-buddhism/.github/edit/main/profile/README.md#supply-chain-repositories)
+- [🔗 XXXXXXX]()
+- [🔗 XXXXXXX]()
+- [🔗 XXXXXXX]()
+## 
+- **📚 [Awesome Buddhist Sources](https://github.com/awesome-buddhism/sources)**
+- **🎵 [Awesome Buddhist Preservation](https://github.com/awesome-buddhism/preservation)**
+- **💻 [Awesome Buddhist Digitization](https://github.com/awesome-buddhism/digitization)**
+- **📝 [Awesome Buddhist Editions](https://github.com/awesome-buddhism/editions)**
+- **🕸️ [Awesome Buddhist Knowledge Networks](https://github.com/awesome-buddhism/knowledge-networks)**
+- **🌐 [Awesome Buddhist Translations](https://github.com/awesome-buddhism/translations)**
+- **🎯 [Awesome Buddhist Adaptations](https://github.com/awesome-buddhism/adaptations)**
+- **📖 [Awesome Buddhist Study Tools](https://github.com/awesome-buddhism/study-tools)**
+- **🎨 [Awesome Buddhist Content](https://github.com/awesome-buddhism/content)**
+- **📡 [Awesome Buddhist Distribution](https://github.com/awesome-buddhism/distribution)**
+- **🗺️ [Awesome Buddhist Learning Paths](https://github.com/awesome-buddhism/learning-paths)**
+- **🤝 [Awesome Buddhist Communities](https://github.com/awesome-buddhism/communities)**
+- **⚖️ [Awesome Buddhist AI Evaluation](https://github.com/awesome-buddhism/ai-evaluation)**
+- **📊 [Awesome Buddhist Analytics](https://github.com/awesome-buddhism/analytics)**
 
 ## 🤝 Contributing
 
