@@ -20,7 +20,7 @@ Just as grain transforms into bread through a structured process that nourishes 
 - [🔗 XXXXXXX]()
 - [🔗 XXXXXXX]()
 ## 
-- **📚 [Awesome Buddhist Sources](https://github.com/awesome-buddhism/preservation/sources)**
+- **📚 [Awesome Buddhist Sources](https://github.com/awesome-buddhism/sources)**
 - **🎵 [Awesome Buddhist Preservation](https://github.com/awesome-buddhism/preservation)**
 - **💻 [Awesome Buddhist Digitization](https://github.com/awesome-buddhism/digitization)**
 - **📝 [Awesome Buddhist Editions](https://github.com/awesome-buddhism/editions)**
