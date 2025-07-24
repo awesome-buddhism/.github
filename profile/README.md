@@ -34,8 +34,8 @@ Just as grain transforms into bread through a structured process that nourishes 
 - **🤝 [Awesome Buddhist Communities](https://github.com/awesome-buddhism/communities)**
 - **⚖️ [Awesome Buddhist AI Evaluation](https://github.com/awesome-buddhism/ai-evaluation)**
 - **📊 [Awesome Buddhist Analytics](https://github.com/awesome-buddhism/analytics)**
-- **📚 [Awesome Buddhist Open Sources Projects](https://github.com/awesome-buddhism/awesome-buddhist-projects)**
-- **📚 [Awesome Buddhist Open Sources Data](https://github.com/awesome-buddhism/awesome-buddhist-data)**
+- **🧩 [Awesome Buddhist Open Sources Projects](https://github.com/awesome-buddhism/awesome-buddhist-projects)**
+- **🗃️ [Awesome Buddhist Open Sources Data](https://github.com/awesome-buddhism/awesome-buddhist-data)**
 
 ## 🤝 Contributing
 
