@@ -14,7 +14,7 @@ Just as grain transforms into bread through a structured process that nourishes 
 
 *From authentic sources to thriving communities - mapping the complete journey of Buddhist knowledge in the digital age.*
 # Content
-- [🔗 Supply Chain Repositories](https://github.com/awesome-buddhism/.github/edit/main/profile/README.md#supply-chain-repositories)
+- [🔗 Supply Chain Repositories](https://github.com/awesome-buddhism)
 - [🔗 XXXXXXX]()
 - [🔗 XXXXXXX]()
 - [🔗 XXXXXXX]()
